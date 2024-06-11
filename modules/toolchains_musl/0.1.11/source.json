@@ -1,0 +1,5 @@
+{
+    "integrity": "sha256-coVBX6E+gLIS3/i3mTgv3woJOWmO/LDvzf4SJMDIjIM=",
+    "strip_prefix": "",
+    "url": "https://github.com/bazel-contrib/musl-toolchain/releases/download/v0.1.11/musl_toolchain-v0.1.11.tar.gz"
+}
